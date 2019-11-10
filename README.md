@@ -26,6 +26,8 @@ Furthermore, de-duplication of errors should also be avoided.
 These errors should be sent somewhere, but where? Perhaps creating a [GitHub App](https://developer.github.com/apps/building-github-apps/creating-a-github-app/) and including the bug submissions as issues, but specifying their origin (i.e., from the automatic bug tracking software).
 
 ## What to build on?
+The build features must be language specific.
+Furthermore, a place to submit bug reports must be provided (e.g., GitHub link).
 
 # Pros and Cons
 ## Pros
